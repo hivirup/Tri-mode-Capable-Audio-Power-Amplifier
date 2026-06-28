@@ -1,10 +1,9 @@
 # Tri-mode Capable Audio Power Amplifier
 
 ## Overview
+This repository documents the design and evaluation of a high-fidelity tri-mode audio power amplifier. The system is engineered to drive dual speaker outputs across three distinct configurations, allowing it to adapt to varying acoustic environments and power requirements without requiring hardware modifications.
 
 https://github.com/user-attachments/assets/d86d677f-6a97-4e2f-b168-3dc96ac75fd9
-
-This repository documents the design and evaluation of a high-fidelity tri-mode audio power amplifier. The system is engineered to drive dual speaker outputs across three distinct configurations, allowing it to adapt to varying acoustic environments and power requirements without requiring hardware modifications.
 
 The versatility of the system is derived from a flexible signal routing architecture. By utilizing specific input processing and amplification stages, the device can be reconfigured to prioritize either spatial stereo separation or maximum monophonic power delivery through bridge-tied load (BTL) operation.
 
